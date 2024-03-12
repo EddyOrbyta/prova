@@ -10,3 +10,4 @@
                 => now commit 2
                                 => now commit 2.1 
                                 => now commit 2.2
+                => now commit 3
