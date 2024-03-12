@@ -5,6 +5,7 @@
                 => now commit, push and PR 
 
 4. Create feature/third 
+
                 => now commit 1 
                 => now commit 2 and push 
 
@@ -17,3 +18,6 @@
                                 => now commit 2.2
                 => now commit 3
 
+3. Create feature/second from develop
+
+                => End second feature now commit 1
